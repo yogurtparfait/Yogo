@@ -45,3 +45,4 @@ public class Employee
        return "Name: " + name +" Salary: " + salary + " HireDay: " + hireDay;
    }
 }
+>>>>>>> ce7436fb0e1ad46f65330aafe03f298304380003
